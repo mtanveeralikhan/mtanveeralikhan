@@ -2,7 +2,7 @@
 - 👀 I’m interested in Medical Programming
 - 🌱 I’m currently learning Web3
 - 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ...
+- 📫 How to reach me: Call me, if you know me
 
 <!---
 mtanveeralikhan/mtanveeralikhan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
