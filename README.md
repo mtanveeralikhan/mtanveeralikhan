@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mtanveeralikhan
 - 👀 I’m interested in Medical Programming
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Web3
+- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 
 <!---
